@@ -25,7 +25,7 @@ input:active, input:focus{
 }
 .alert{
     transition: top 0.6s;
-    top: 165px;
+    top: 320px;
     margin: 0 auto;
     left: 0;
     right: 0;
@@ -36,6 +36,6 @@ input:active, input:focus{
 }
 
 .danger-alert{
-    top: 250px;
+    top: 375px;
     background-color: #f34795;
 }
